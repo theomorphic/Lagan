@@ -149,6 +149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2022-08-28 03:01:02 +0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2019-10-10 05:40:16 +0500"
@@ -554,6 +560,12 @@
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2019-11-18 03:28:06 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-08-28 03:00:53 +0500"
     },
     "done": true
   },
@@ -2546,6 +2558,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-08-28 03:00:53 +0500"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2020-02-03 10:18:12 +0500"
@@ -3194,6 +3212,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-08-28 03:00:53 +0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2021-08-04 03:04:03 +0500"
@@ -3293,6 +3317,12 @@
   "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
     "criteria": {
       "has_purple_dye": "2020-01-25 07:17:30 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-08-28 03:00:53 +0500"
     },
     "done": true
   },
@@ -3853,6 +3883,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-08-28 03:00:53 +0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2020-02-11 06:54:40 +0500"
@@ -4110,6 +4146,7 @@
       "minecraft:old_growth_pine_taiga": "2019-09-02 15:06:00 +0500",
       "minecraft:mushroom_fields": "2020-01-15 19:09:11 +0500",
       "minecraft:taiga": "2019-09-02 15:02:52 +0500",
+      "minecraft:deep_ocean": "2022-08-28 03:34:12 +0500",
       "minecraft:frozen_river": "2019-09-02 04:12:00 +0500",
       "minecraft:birch_forest": "2019-09-07 03:08:50 +0500",
       "minecraft:windswept_hills": "2019-09-02 04:22:51 +0500",
@@ -4850,6 +4887,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-08-28 03:00:53 +0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2019-12-25 04:42:27 +0500"
@@ -5069,6 +5112,12 @@
   "minecraft:recipes/building_blocks/jack_o_lantern": {
     "criteria": {
       "has_carved_pumpkin": "2019-12-27 05:19:37 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-08-28 03:00:53 +0500"
     },
     "done": true
   },
@@ -5897,5 +5946,5 @@
     },
     "done": true
   },
-  "DataVersion": 3105
+  "DataVersion": 3120
 }
