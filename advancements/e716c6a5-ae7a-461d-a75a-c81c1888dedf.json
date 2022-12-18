@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_mangrove_wood": {
+    "criteria": {
+      "has_log": "2022-12-18 22:34:12 +0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
     "criteria": {
       "has_black_dye": "2019-10-10 05:30:00 +0500"
@@ -458,6 +464,12 @@
   "minecraft:recipes/misc/copper_ingot": {
     "criteria": {
       "has_copper_block": "2022-01-21 06:34:10 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_pressure_plate": {
+    "criteria": {
+      "has_planks": "2022-12-18 22:16:42 +0500"
     },
     "done": true
   },
@@ -1460,6 +1472,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mangrove_fence": {
+    "criteria": {
+      "has_planks": "2022-12-18 22:16:42 +0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2019-09-02 15:03:45 +0500"
@@ -2306,6 +2324,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mangrove_stairs": {
+    "criteria": {
+      "has_planks": "2022-12-18 22:16:42 +0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2019-10-12 03:01:22 +0500"
@@ -2462,6 +2486,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/mangrove_trapdoor": {
+    "criteria": {
+      "has_planks": "2022-12-18 22:16:42 +0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2019-09-08 19:37:29 +0500"
@@ -2603,6 +2633,12 @@
   "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
     "criteria": {
       "has_netherite_block": "2020-10-09 19:30:14 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_fence_gate": {
+    "criteria": {
+      "has_planks": "2022-12-18 22:16:42 +0500"
     },
     "done": true
   },
@@ -3050,6 +3086,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mangrove_sign": {
+    "criteria": {
+      "has_planks": "2022-12-18 22:16:42 +0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2019-09-07 04:46:14 +0500"
@@ -3371,6 +3413,12 @@
   "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
       "has_mossy_stone_bricks": "2019-10-24 03:49:14 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_button": {
+    "criteria": {
+      "has_planks": "2022-12-18 22:16:42 +0500"
     },
     "done": true
   },
@@ -3718,6 +3766,12 @@
   "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2019-10-24 04:44:22 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_door": {
+    "criteria": {
+      "has_planks": "2022-12-18 22:16:42 +0500"
     },
     "done": true
   },
@@ -4072,6 +4126,12 @@
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2019-09-02 15:03:45 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2022-12-18 21:38:41 +0500"
     },
     "done": true
   },
@@ -5160,6 +5220,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2019-10-10 05:40:16 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_slab": {
+    "criteria": {
+      "has_planks": "2022-12-18 22:16:42 +0500"
     },
     "done": true
   },
