@@ -425,6 +425,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2022-12-20 03:16:56 +0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/crimson_button": {
     "criteria": {
       "has_planks": "2021-07-07 22:44:05 +0500"
@@ -3332,6 +3338,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2022-12-20 03:16:56 +0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sponge": {
     "criteria": {
       "has_wet_sponge": "2020-05-16 04:52:56 +0500"
@@ -3946,6 +3958,12 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2021-08-05 20:33:03 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2022-12-20 03:16:56 +0500"
     },
     "done": true
   },
