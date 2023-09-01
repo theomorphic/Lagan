@@ -1,1 +1,0 @@
-fill ^-2 ^0 ^0 ^2 ^2 ^5 minecraft:air replace

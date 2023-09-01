@@ -1,1 +1,0 @@
-tellraw @a [{"text":"[Datapack]"},{"text":" Pictures from MPic has been enabled","color":"green"}]

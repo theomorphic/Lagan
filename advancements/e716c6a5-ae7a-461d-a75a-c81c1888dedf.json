@@ -6284,15 +6284,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2023-08-27 23:53:21 +0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2023-08-28 00:00:26 +0500"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/spruce_hanging_sign": {
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
     "criteria": {
-      "has_stripped_logs": "2023-08-27 23:53:21 +0500"
+      "has_pink_petals": "2023-09-02 03:17:00 +0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/craft_decorated_pot_using_only_sherds": {
+    "criteria": {
+      "pot_crafted_using_only_sherds": "2023-09-02 03:34:29 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2023-09-02 03:17:24 +0500"
     },
     "done": true
   },
