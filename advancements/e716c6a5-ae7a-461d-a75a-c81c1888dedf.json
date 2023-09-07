@@ -6296,5 +6296,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_orange_bed": {
+    "criteria": {
+      "has_needed_dye": "2023-09-06 19:53:26 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_carpet": {
+    "criteria": {
+      "has_needed_dye": "2023-09-06 19:53:26 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_wool": {
+    "criteria": {
+      "has_needed_dye": "2023-09-06 19:53:26 +0500"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
