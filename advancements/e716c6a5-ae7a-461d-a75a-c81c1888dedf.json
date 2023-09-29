@@ -8,6 +8,7 @@
       "minecraft:taiga": "2019-09-02 15:02:52 +0500",
       "minecraft:deep_ocean": "2022-08-28 03:34:12 +0500",
       "minecraft:deep_cold_ocean": "2019-09-07 02:46:03 +0500",
+      "minecraft:frozen_ocean": "2023-09-29 22:19:13 +0500",
       "minecraft:desert": "2019-09-02 04:10:48 +0500",
       "minecraft:frozen_river": "2019-09-02 04:12:00 +0500",
       "minecraft:deep_frozen_ocean": "2020-01-15 06:57:13 +0500",
@@ -22,6 +23,7 @@
       "minecraft:warm_ocean": "2020-01-27 00:05:07 +0500",
       "minecraft:deep_lukewarm_ocean": "2020-01-26 23:50:47 +0500",
       "minecraft:badlands": "2023-01-23 00:10:44 +0500",
+      "minecraft:flower_forest": "2023-09-29 21:25:12 +0500",
       "minecraft:savanna_plateau": "2019-09-07 02:45:12 +0500",
       "minecraft:beach": "2019-09-02 15:01:28 +0500",
       "minecraft:dark_forest": "2019-09-07 03:08:07 +0500",
@@ -35,6 +37,7 @@
       "minecraft:dripstone_caves": "2023-09-14 21:41:00 +0500",
       "minecraft:old_growth_birch_forest": "2023-01-23 00:06:18 +0500",
       "minecraft:swamp": "2019-09-02 04:26:13 +0500",
+      "minecraft:windswept_gravelly_hills": "2023-09-29 22:04:20 +0500",
       "minecraft:savanna": "2019-09-07 02:44:55 +0500",
       "minecraft:plains": "2019-09-02 04:08:52 +0500"
     },
@@ -6318,6 +6321,102 @@
   "minecraft:recipes/building_blocks/mangrove_wood": {
     "criteria": {
       "has_log": "2023-09-28 02:45:34 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_blue_wool": {
+    "criteria": {
+      "has_needed_dye": "2023-09-29 21:01:30 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_blue_bed": {
+    "criteria": {
+      "has_needed_dye": "2023-09-29 21:01:30 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_blue_carpet": {
+    "criteria": {
+      "has_needed_dye": "2023-09-29 21:01:30 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_candle": {
+    "criteria": {
+      "has_light_blue_dye": "2023-09-29 21:01:30 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_bed": {
+    "criteria": {
+      "has_needed_dye": "2023-09-29 21:03:04 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_carpet": {
+    "criteria": {
+      "has_needed_dye": "2023-09-29 21:03:04 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_candle": {
+    "criteria": {
+      "has_green_dye": "2023-09-29 21:03:04 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_wool": {
+    "criteria": {
+      "has_needed_dye": "2023-09-29 21:03:04 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_wool": {
+    "criteria": {
+      "has_needed_dye": "2023-09-29 21:03:42 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_carpet": {
+    "criteria": {
+      "has_needed_dye": "2023-09-29 21:03:42 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_candle": {
+    "criteria": {
+      "has_purple_dye": "2023-09-29 21:03:42 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_bed": {
+    "criteria": {
+      "has_needed_dye": "2023-09-29 21:03:42 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_lime_wool": {
+    "criteria": {
+      "has_needed_dye": "2023-09-29 21:07:50 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_candle": {
+    "criteria": {
+      "has_lime_dye": "2023-09-29 21:07:50 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_lime_bed": {
+    "criteria": {
+      "has_needed_dye": "2023-09-29 21:07:50 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_lime_carpet": {
+    "criteria": {
+      "has_needed_dye": "2023-09-29 21:07:50 +0500"
     },
     "done": true
   },
