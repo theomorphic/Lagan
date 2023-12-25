@@ -6421,5 +6421,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/warped_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2023-11-01 00:40:37 +0500"
+    },
+    "done": true
+  },
   "DataVersion": 3578
 }
