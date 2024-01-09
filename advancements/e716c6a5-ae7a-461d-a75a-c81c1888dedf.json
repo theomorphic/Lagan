@@ -6427,5 +6427,11 @@
     },
     "done": true
   },
-  "DataVersion": 3578
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-01-08 19:07:51 +0500"
+    },
+    "done": true
+  },
+  "DataVersion": 3700
 }
