@@ -6517,5 +6517,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2024-02-19 03:15:42 +0500"
+    },
+    "done": true
+  },
   "DataVersion": 3700
 }
