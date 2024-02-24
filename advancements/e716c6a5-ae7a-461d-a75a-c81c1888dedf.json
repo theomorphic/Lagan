@@ -6523,5 +6523,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2024-02-24 15:58:10 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2024-02-24 19:22:01 +0500"
+    },
+    "done": true
+  },
   "DataVersion": 3700
 }
