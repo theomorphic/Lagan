@@ -149,7 +149,8 @@
       "minecraft:zombie": "2019-09-07 01:31:42 +0500",
       "minecraft:creeper": "2019-09-08 02:38:56 +0500",
       "minecraft:drowned": "2023-02-05 01:03:32 +0500",
-      "minecraft:zombie_villager": "2019-11-11 03:50:27 +0500"
+      "minecraft:zombie_villager": "2019-11-11 03:50:27 +0500",
+      "minecraft:slime": "2024-03-08 01:42:17 +0500"
     },
     "done": false
   },
@@ -6538,6 +6539,24 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2024-03-05 21:26:30 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-03-08 01:42:21 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-03-08 01:42:21 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-03-08 01:42:21 +0500"
     },
     "done": true
   },
