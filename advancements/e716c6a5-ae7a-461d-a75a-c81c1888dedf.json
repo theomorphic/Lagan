@@ -6560,5 +6560,11 @@
     },
     "done": true
   },
-  "DataVersion": 4082
+  "minecraft:recipes/decorations/pale_moss_carpet": {
+    "criteria": {
+      "has_pale_moss_block": "2025-01-02 19:15:20 +0500"
+    },
+    "done": true
+  },
+  "DataVersion": 4189
 }
