@@ -6572,5 +6572,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mangrove_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-01-03 17:48:27 +0500"
+    },
+    "done": true
+  },
   "DataVersion": 4189
 }
