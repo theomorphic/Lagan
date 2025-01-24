@@ -6668,18 +6668,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_stairs_from_waxed_weathered_cut_copper_stonecutting": {
-    "criteria": {
-      "has_waxed_weathered_cut_copper": "2025-01-24 02:12:52 +0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_slab_from_waxed_weathered_cut_copper_stonecutting": {
-    "criteria": {
-      "has_waxed_weathered_cut_copper": "2025-01-24 02:12:52 +0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/yellow_shulker_box": {
     "criteria": {
       "has_shulker_box": "2025-01-24 00:31:34 +0500"
@@ -6698,12 +6686,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_weathered_chiseled_copper": {
-    "criteria": {
-      "has_waxed_weathered_cut_copper_slab": "2025-01-24 02:12:54 +0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/purple_shulker_box": {
     "criteria": {
       "has_shulker_box": "2025-01-24 00:31:34 +0500"
@@ -6716,27 +6698,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gray_dye_from_closed_eyeblossom": {
-    "criteria": {
-      "has_closed_eyeblossom": "2025-01-24 01:46:45 +0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/cyan_shulker_box": {
     "criteria": {
       "has_shulker_box": "2025-01-24 00:31:34 +0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/resin_brick_wall": {
-    "criteria": {
-      "has_resin_bricks": "2025-01-24 02:20:49 +0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_oxidized_chiseled_copper": {
-    "criteria": {
-      "has_waxed_oxidized_cut_copper_slab": "2025-01-24 01:57:50 +0500"
     },
     "done": true
   },
@@ -6746,69 +6710,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/resin_brick_wall_from_resin_bricks_stonecutting": {
-    "criteria": {
-      "has_resin_bricks": "2025-01-24 02:20:49 +0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_oxidized_chiseled_copper_from_waxed_oxidized_cut_copper_stonecutting": {
-    "criteria": {
-      "has_waxed_oxidized_cut_copper": "2025-01-24 01:57:49 +0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/green_shulker_box": {
     "criteria": {
       "has_shulker_box": "2025-01-24 00:31:34 +0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/weathered_cut_copper_slab_from_weathered_cut_copper_stonecutting": {
-    "criteria": {
-      "has_weathered_cut_copper": "2025-01-24 02:12:27 +0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/orange_dye_from_open_eyeblossom": {
-    "criteria": {
-      "has_open_eyeblossom": "2025-01-24 01:45:14 +0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_slab": {
-    "criteria": {
-      "has_waxed_weathered_cut_copper": "2025-01-24 02:12:52 +0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/weathered_chiseled_copper_from_weathered_cut_copper_stonecutting": {
-    "criteria": {
-      "has_weathered_cut_copper": "2025-01-24 02:12:27 +0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/resin_brick_stairs_from_resin_bricks_stonecutting": {
-    "criteria": {
-      "has_resin_bricks": "2025-01-24 02:20:49 +0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_weathered_chiseled_copper_from_waxed_weathered_cut_copper_stonecutting": {
-    "criteria": {
-      "has_waxed_weathered_cut_copper": "2025-01-24 02:12:52 +0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_slab_from_honeycomb": {
-    "criteria": {
-      "has_weathered_cut_copper_slab": "2025-01-24 02:12:35 +0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/suspicious_stew_from_open_eyeblossom": {
-    "criteria": {
-      "has_open_eyeblossom": "2025-01-24 01:45:14 +0500"
     },
     "done": true
   },
@@ -6818,33 +6722,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_resin_bricks_from_resin_bricks_stonecutting": {
-    "criteria": {
-      "has_resin_bricks": "2025-01-24 02:20:49 +0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/light_blue_shulker_box": {
     "criteria": {
       "has_shulker_box": "2025-01-24 00:31:34 +0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/weathered_chiseled_copper": {
-    "criteria": {
-      "has_weathered_cut_copper_slab": "2025-01-24 02:12:35 +0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/weathered_cut_copper_stairs": {
-    "criteria": {
-      "has_weathered_cut_copper": "2025-01-24 02:12:27 +0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/resin_brick_slab_from_resin_bricks_stonecutting": {
-    "criteria": {
-      "has_resin_bricks": "2025-01-24 02:20:49 +0500"
     },
     "done": true
   },
@@ -6854,15 +6734,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-01-24 00:31:34 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-01-24 00:31:34 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-01-24 00:31:34 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-01-24 00:31:34 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_open_eyeblossom": {
+    "criteria": {
+      "has_open_eyeblossom": "2025-01-24 01:45:14 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_open_eyeblossom": {
+    "criteria": {
+      "has_open_eyeblossom": "2025-01-24 01:45:14 +0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/suspicious_stew_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2025-01-24 01:45:34 +0500"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_gray_shulker_box": {
+  "minecraft:recipes/misc/gray_dye_from_closed_eyeblossom": {
     "criteria": {
-      "has_shulker_box": "2025-01-24 00:31:34 +0500"
+      "has_closed_eyeblossom": "2025-01-24 01:46:45 +0500"
     },
     "done": true
   },
@@ -6872,15 +6788,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_stairs": {
+  "minecraft:recipes/building_blocks/waxed_oxidized_chiseled_copper_from_waxed_oxidized_cut_copper_stonecutting": {
     "criteria": {
-      "has_waxed_weathered_cut_copper": "2025-01-24 02:12:52 +0500"
+      "has_waxed_oxidized_cut_copper": "2025-01-24 01:57:49 +0500"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/resin_brick_stairs": {
+  "minecraft:recipes/building_blocks/waxed_oxidized_chiseled_copper": {
     "criteria": {
-      "has_resin_bricks": "2025-01-24 02:20:49 +0500"
+      "has_waxed_oxidized_cut_copper_slab": "2025-01-24 01:57:50 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/weathered_cut_copper_slab_from_weathered_cut_copper_stonecutting": {
+    "criteria": {
+      "has_weathered_cut_copper": "2025-01-24 02:12:27 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/weathered_chiseled_copper_from_weathered_cut_copper_stonecutting": {
+    "criteria": {
+      "has_weathered_cut_copper": "2025-01-24 02:12:27 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/weathered_cut_copper_stairs": {
+    "criteria": {
+      "has_weathered_cut_copper": "2025-01-24 02:12:27 +0500"
     },
     "done": true
   },
@@ -6896,9 +6830,63 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blue_shulker_box": {
+  "minecraft:recipes/building_blocks/weathered_cut_copper_slab": {
     "criteria": {
-      "has_shulker_box": "2025-01-24 00:31:34 +0500"
+      "has_weathered_cut_copper": "2025-01-24 02:12:27 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_stairs_from_honeycomb": {
+    "criteria": {
+      "has_weathered_cut_copper_stairs": "2025-01-24 02:12:34 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_slab_from_honeycomb": {
+    "criteria": {
+      "has_weathered_cut_copper_slab": "2025-01-24 02:12:35 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/weathered_chiseled_copper": {
+    "criteria": {
+      "has_weathered_cut_copper_slab": "2025-01-24 02:12:35 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_stairs_from_waxed_weathered_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_weathered_cut_copper": "2025-01-24 02:12:52 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_slab_from_waxed_weathered_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_weathered_cut_copper": "2025-01-24 02:12:52 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_slab": {
+    "criteria": {
+      "has_waxed_weathered_cut_copper": "2025-01-24 02:12:52 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_weathered_chiseled_copper_from_waxed_weathered_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_weathered_cut_copper": "2025-01-24 02:12:52 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_stairs": {
+    "criteria": {
+      "has_waxed_weathered_cut_copper": "2025-01-24 02:12:52 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_weathered_chiseled_copper": {
+    "criteria": {
+      "has_waxed_weathered_cut_copper_slab": "2025-01-24 02:12:54 +0500"
     },
     "done": true
   },
@@ -6908,15 +6896,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/orange_shulker_box": {
+  "minecraft:recipes/decorations/resin_brick_wall": {
     "criteria": {
-      "has_shulker_box": "2025-01-24 00:31:34 +0500"
+      "has_resin_bricks": "2025-01-24 02:20:49 +0500"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/weathered_cut_copper_slab": {
+  "minecraft:recipes/decorations/resin_brick_wall_from_resin_bricks_stonecutting": {
     "criteria": {
-      "has_weathered_cut_copper": "2025-01-24 02:12:27 +0500"
+      "has_resin_bricks": "2025-01-24 02:20:49 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/resin_brick_stairs_from_resin_bricks_stonecutting": {
+    "criteria": {
+      "has_resin_bricks": "2025-01-24 02:20:49 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_resin_bricks_from_resin_bricks_stonecutting": {
+    "criteria": {
+      "has_resin_bricks": "2025-01-24 02:20:49 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/resin_brick_slab_from_resin_bricks_stonecutting": {
+    "criteria": {
+      "has_resin_bricks": "2025-01-24 02:20:49 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/resin_brick_stairs": {
+    "criteria": {
+      "has_resin_bricks": "2025-01-24 02:20:49 +0500"
     },
     "done": true
   },
@@ -6926,15 +6938,219 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_shulker_box": {
+  "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_stonecutting": {
     "criteria": {
-      "has_shulker_box": "2025-01-24 00:31:34 +0500"
+      "has_tuff": "2025-01-24 22:40:55 +0500"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_stairs_from_honeycomb": {
+  "minecraft:recipes/building_blocks/tuff_bricks_from_tuff_stonecutting": {
     "criteria": {
-      "has_weathered_cut_copper_stairs": "2025-01-24 02:12:34 +0500"
+      "has_tuff": "2025-01-24 22:40:55 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_slab": {
+    "criteria": {
+      "has_tuff": "2025-01-24 22:40:55 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-01-24 22:40:55 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_tuff_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-01-24 22:40:55 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_wall": {
+    "criteria": {
+      "has_tuff": "2025-01-24 22:40:55 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-01-24 22:40:55 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-01-24 22:40:55 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_stairs": {
+    "criteria": {
+      "has_tuff": "2025-01-24 22:40:55 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_brick_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-01-24 22:40:55 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_tuff_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-01-24 22:40:55 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-01-24 22:40:55 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-01-24 22:40:55 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-01-24 22:40:55 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff": {
+    "criteria": {
+      "has_tuff": "2025-01-24 22:40:55 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-01-24 22:40:55 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-01-24 22:40:55 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_tuff_wall": {
+    "criteria": {
+      "has_polished_tuff": "2025-01-24 22:40:57 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_brick_wall_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2025-01-24 22:40:57 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_stairs_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2025-01-24 22:40:57 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff_slab_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2025-01-24 22:40:57 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff_stairs": {
+    "criteria": {
+      "has_polished_tuff": "2025-01-24 22:40:57 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff_stairs_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2025-01-24 22:40:57 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff_slab": {
+    "criteria": {
+      "has_polished_tuff": "2025-01-24 22:40:57 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2025-01-24 22:40:57 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_bricks": {
+    "criteria": {
+      "has_polished_tuff": "2025-01-24 22:40:57 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_tuff_wall_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2025-01-24 22:40:57 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_bricks_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2025-01-24 22:40:57 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_slab_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2025-01-24 22:40:57 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2025-01-25 01:13:07 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_tuff_bricks": {
+    "criteria": {
+      "has_tuff_brick_slab": "2025-01-25 00:49:44 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_trapdoor_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_copper_trapdoor": "2025-01-25 01:22:16 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/pale_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-25 02:56:28 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-01-25 01:13:18 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-01-25 01:13:06 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_tuff": {
+    "criteria": {
+      "has_tuff_slab": "2025-01-25 00:53:50 +0500"
     },
     "done": true
   },
