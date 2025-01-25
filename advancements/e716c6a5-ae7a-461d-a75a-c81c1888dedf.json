@@ -7154,5 +7154,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_resin_bricks": {
+    "criteria": {
+      "has_resin_brick_slab": "2025-01-25 21:54:38 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_torchflower": {
+    "criteria": {
+      "has_torchflower": "2025-01-26 00:43:57 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-01-26 00:46:42 +0500"
+    },
+    "done": true
+  },
   "DataVersion": 4189
 }
