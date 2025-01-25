@@ -7112,15 +7112,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_tuff_bricks": {
+    "criteria": {
+      "has_tuff_brick_slab": "2025-01-25 00:49:44 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_tuff": {
+    "criteria": {
+      "has_tuff_slab": "2025-01-25 00:53:50 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-01-25 01:13:06 +0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/suspicious_stew_from_blue_orchid": {
     "criteria": {
       "has_blue_orchid": "2025-01-25 01:13:07 +0500"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_tuff_bricks": {
+  "minecraft:recipes/food/suspicious_stew_from_cornflower": {
     "criteria": {
-      "has_tuff_brick_slab": "2025-01-25 00:49:44 +0500"
+      "has_cornflower": "2025-01-25 01:13:18 +0500"
     },
     "done": true
   },
@@ -7133,24 +7151,6 @@
   "minecraft:recipes/transportation/pale_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-25 02:56:28 +0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/suspicious_stew_from_cornflower": {
-    "criteria": {
-      "has_cornflower": "2025-01-25 01:13:18 +0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/suspicious_stew_from_poppy": {
-    "criteria": {
-      "has_poppy": "2025-01-25 01:13:06 +0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_tuff": {
-    "criteria": {
-      "has_tuff_slab": "2025-01-25 00:53:50 +0500"
     },
     "done": true
   },
