@@ -1,0 +1,23 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:writable_book": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 11657,
+      "minecraft:walk_one_cm": 31587,
+      "minecraft:leave_game": 1,
+      "minecraft:play_time": 11657,
+      "minecraft:open_shulker_box": 1,
+      "minecraft:jump": 7,
+      "minecraft:time_since_death": 11657,
+      "minecraft:open_enderchest": 1,
+      "minecraft:sprint_one_cm": 2518,
+      "minecraft:total_world_time": 11760,
+      "minecraft:fly_one_cm": 284438,
+      "minecraft:crouch_one_cm": 249,
+      "minecraft:sneak_time": 560
+    }
+  },
+  "DataVersion": 4671
+}
